@@ -1,0 +1,6 @@
+#include<stdio.h>
+main(){
+    int a = 90;
+    int b = 78;
+    printf("%d",a+b);
+}
